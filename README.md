@@ -88,6 +88,8 @@ portfolio-masterplan/
 
 👉 [マスタープラン全文](docs/masterplan.md)
 
+👉 [バランスシート](docs/bs.md)
+
 ## ⚠️ 免責事項
 
 本リポジトリの内容は教育・情報提供目的のみです。
