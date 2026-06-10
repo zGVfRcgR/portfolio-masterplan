@@ -22,13 +22,16 @@ GitHub Copilot / Claude の AI アシスタントが5名の投資専門家（税
 
 ```
 portfolio-masterplan/
-├── README.md                        # 本ファイル
+├── README.md                        # 本ファイル（全体概要・目標シミュレーション）
 ├── CLAUDE.md                        # Claude AI設定ファイル
 ├── .github/
-│   └── copilot-instructions.md      # GitHub Copilot設定
+│   └── copilot-instructions.md      # GitHub Copilot設定（専門家ペルソナ定義）
 └── docs/
-    ├── bs.md                        # バランスシート
-    └── masterplan.md                # マスタープラン全文
+    ├── bs.md                        # 個人バランスシート（ストック状況）
+    ├── cf.md                        # キャッシュフロー計画（収支・納税・インカム推移）
+    ├── daily_logs                   # ブログを保存するフォルダ   
+    └── masterplan.md                # マスタープラン全文（5ヵ年ロードマップ詳細）
+
 ```
 
 ## 🎯 投資目標
